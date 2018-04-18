@@ -1,0 +1,8 @@
+*/.ipynb_checkpoints
+*.pyc
+*.csv
+./data/*
+./.idea
+.idea/
+*.gz
+*.zip
